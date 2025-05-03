@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joseph Odell</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link an external stylesheet here -->
+</head>
+<body>
+
+    <header>
+        <h1>Joseph Odell</h1>
+    </header>
+
+    
+    <section id="about">
+        <h2>About Me</h2>
+                        Joseph Odell is a Design student at Chalmers University of Technology. He is interested in computer graphics, 3d modeling, and game development.
+    </section>
+
+    <section id="portfolio">
+        <h2>Showcase</h2>
+        <!-- Add your portfolio items here -->
+        <div class="portfolio-item">         
+                    <iframe
+                allow="fullscreen"
+                style="width:100%;height:500px;"
+                src="https://cdn.pbr.one/main/material-shading.html#color_url=https://josephodell.se/materials/rug/persian_rug_color.png&normal_url=https://josephodell.se/materials/rug/persian_rug_normal.png&ambientocclusion_url=https://josephodell.se/materials/rug/persian_rug_ao.png&roughness_url=https://josephodell.se/materials/rug/persian_rug_roughness.png&displacement_url=https://josephodell.se/materials/rug/persian_rug_height.png"
+                ></iframe>
+            <h3>Project Title</h3>
+            <p>Description of the project.</p>
+        </div>
+        <!-- Add more portfolio items as needed -->
+    </section>
+
+
+    <footer>
+        <p>© 2024 Joseph Odell. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

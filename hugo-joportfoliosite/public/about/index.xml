@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Joseph Odell</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Joseph Odell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/aboutmee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/aboutmee/</guid>
+      <description>&amp;lt;header&amp;gt; &amp;lt;h1&amp;gt;Joseph Odell&amp;lt;/h1&amp;gt; &amp;lt;nav&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#about&amp;quot;&amp;gt;About&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#portfolio&amp;quot;&amp;gt;Portfolio&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#contact&amp;quot;&amp;gt;Contact&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;/nav&amp;gt; &amp;lt;/header&amp;gt; &amp;lt;section id=&amp;quot;about&amp;quot;&amp;gt; &amp;lt;h2&amp;gt;About Me&amp;lt;/h2&amp;gt; Joseph Odell is a Design student at Chalmers University of Technology. He is interested in computer graphics, 3d modeling, and game development. &amp;lt;/section&amp;gt; &amp;lt;section id=&amp;quot;portfolio&amp;quot;&amp;gt; &amp;lt;h2&amp;gt;Showcase&amp;lt;/h2&amp;gt; &amp;lt;!-- Add your portfolio items here --&amp;gt; &amp;lt;div class=&amp;quot;portfolio-item&amp;quot;&amp;gt; &amp;lt;iframe allow=&amp;quot;fullscreen&amp;quot; style=&amp;quot;width:100%;height:500px;&amp;quot; src=&amp;quot;https://cdn.pbr.one/main/material-shading.html#color_url=https://josephodell.se/materials/rug/persian_rug_color.png&amp;amp;normal_url=https://josephodell.se/materials/rug/persian_rug_normal.png&amp;amp;ambientocclusion_url=https://josephodell.se/materials/rug/persian_rug_ao.png&amp;amp;roughness_url=https://josephodell.se/materials/rug/persian_rug_roughness.png&amp;amp;displacement_url=https://josephodell.se/materials/rug/persian_rug_height.png&amp;quot; &amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;h3&amp;gt;Project Title&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Description of the project.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;!-- Add more portfolio items as needed --&amp;gt; &amp;lt;/section&amp;gt; &amp;lt;footer&amp;gt; &amp;lt;p&amp;gt;© 2024 Joseph Odell.</description>
+    </item>
+  </channel>
+</rss>
